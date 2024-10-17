@@ -1,0 +1,37 @@
+# 1 : Rechercher et comprendre les sujets suivants : Open source, IDE, Git, GitHub, HTML, CSS, Site web statique, Javascript.
+Faire une 1 à 3 phrases pour synthétiser chacun d'entre eux. 
+
+Open source:C'est un code que tout le monde peut voir et modifier (ex:Wikipedia)
+IDE:C'est un logiciel de création qui rassemble des outils de développement souvent utilisés
+Git:C'est un logicil open source de gestion de version qui garde les modifications faites dessus
+GitHub:C'est une platforme web qui a les mễme fonctionnalités qu'un Git
+HTML:C'est le langage utilisé pour structurer une page web
+CSS:C'est un langage informatique permettant de mettre en forme des pages web(ex:HTML)
+Site web statique:C'est une Site web ou le contenu ne change pas
+Javascript:C'est un langage de programmation
+
+
+
+# 2 : Approfondir les recherches précédentes et parler des avantages de ces outils. Cette fois-ci il s'agit moins d'une prise de note et plus de préparer le texte du rapport.
+Voici un exemple : 
+
+Open source : Un logiciel open source est un programme dont le code source est accessible à tous. Chacun peut le consulter, le modifier et le redistribuer librement. Cela favorise la collaboration, l'innovation rapide et des logiciels plus sûrs grâce à l'inspection collective.
+
+IDE : Un environnement de développement intégré (IDE) est une application logicielle qui aide les programmeurs à développer le code logiciel.On peut utiliser n'importe quel éditeur de texte pour rédiger du code. Cependant, l'IDE incluent des fonctionnalités qui vont plus loin que de l'édition de texte. Ils offrent une interface centrale pour les outils de développement courants, ca rend le processus de développement de logiciels plus efficace. 
+
+Git : C'est un système de contrôle de version open source.. Chaque modification de fichier est détectée par Git --et changé instantanément--. une historique de modification est disponible sur un projet. On peut le consulter et revenir en arrière dans le temps / Dire que c'est collaboratif et que ça permet à une équipe de travailler à plusieurs sur un même code source.
+
+GitHub : C'est un service web d'hébergement et de gestion de développement de logiciels, qui utilise le logiciel de gestion de versions Git.
+Le site prend aussi en charge tous les langages de programmation et tous types de fichiers. Ca peut êre des images, des vidéos, des feuilles des calcules
+
+HTML : HTML (HyperText Markup Language) est un langage utilisé pour structurer une page web et son contenu. On peut par exemple organiser le contenu en un ensemble de paragraphes, une liste d'éléments, utiliser des images ou des tableaux de données.
+
+CSS : C'est un langage informatique permettant de mettre en forme des pages web. Le CSS (Cascading style sheet) est un langage de programmation utilisé pour la mise en forme d’une page web codée en HTML.
+
+Site web statique : Une page web statique est une page web ou le contenu ne change pas par rapport aux caractéristiques de la demande, ca veut dire qu'à un moment tous les internautes qui demandent la page reçoivent le même contenu.
+
+Javascript : JavaScript est un langage de programmation qui permet de créer du contenu mis à jour de façon dynamique, de contrôler le contenu multimédia, d'animer des images, et tout ce à quoi on peut penser.
+
+
+
+# 3 : Commencer le tutoriel HTML & CSS (le document PDF est dans ton dossier).

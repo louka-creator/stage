@@ -1,0 +1,27 @@
+p {
+  color: rgb(250, 235, 20);
+}
+
+html {
+  color: rgb(255, 251, 9);
+  text-shadow: 2px 2px 4px black;
+  font-size: x-large;
+}
+h1.anton-regular {
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+
+p {
+  font-family: Impact, Arial, Helvetica, sans-serif;
+}
+body {
+  background-image: url("https://static.vecteezy.com/ti/vecteur-libre/p1/15846117-vecteur-de-football-affiche-de-football-espace-libre-pour-le-texte-fond-d-ecran-foot-sur-le-terrain-gratuit-vectoriel.jpg");
+}
+h1 {
+  text-align: center;
+  font-size: 60px;
+  font-family: "Anton", sans-serif;
+}

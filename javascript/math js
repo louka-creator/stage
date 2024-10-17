@@ -1,0 +1,13 @@
+function addition(nombre,yoyo){
+  return nombre+yoyo;
+ 
+}
+ var resultat=addition(4,7);
+console.log(resultat);
+
+function soustraction(nombre,yoyo){
+    return nombre-yoyo;
+}
+var resultat=soustraction(4,7);
+console.log(resultat);
+
