@@ -39,3 +39,9 @@ p {
   position: absolute;
   bottom: 0;
 }
+.container-fin {
+  position: absolute;
+  bottom: 243px;
+  text-align: center;
+  width: 100%;
+}
