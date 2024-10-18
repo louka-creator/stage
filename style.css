@@ -1,9 +1,9 @@
 p {
-  color: rgb(250, 235, 20);
+  color: rgb(255, 255, 255);
 }
 
 html {
-  color: rgb(255, 251, 9);
+  color: rgb(255, 255, 255);
   text-shadow: 2px 2px 4px black;
   font-size: x-large;
 }
@@ -24,4 +24,18 @@ h1 {
   text-align: center;
   font-size: 60px;
   font-family: "Anton", sans-serif;
+}
+.container-omer {
+  text-align: center;
+}
+p {
+  font-size: 30px;
+}
+.valo {
+  position: absolute;
+  bottom: 0;
+}
+.messi {
+  position: absolute;
+  bottom: 0;
 }
